@@ -63,13 +63,13 @@ Se ha implementado un sistema de **Control de Acceso Basado en Roles** para gara
 - **Manejo de Errores:** Respuestas estandarizadas en caso de credenciales incorrectas o tokens expirados.
 
 ## 👥 8. Equipo de Desarrollo - Grupo 3
-| Integrante |
+| Integrantes |
 | :--- | 
 | **Siri Vergara María Alejandra** | 
 | **Santisteban Manrique Adrián** | 
 | **Villasante Contreras Jean Paul** | 
 | **Valdiviezo Atero Yoli Jhunior** | 
-| **Zurita Rimaicuna Abner ** | 
+| **Zurita Rimaicuna Abner** | 
 
 <br />
 
