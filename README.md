@@ -69,7 +69,7 @@ Se ha implementado un sistema de **Control de Acceso Basado en Roles** para gara
 | **Santisteban Manrique Adrián** | 
 | **Villasante Contreras Jean Paul** | 
 | **Valdiviezo Atero Yoli Jhunior** | 
-| **Zurita Rimaicuna Abner Stih** | 
+| **Zurita Rimaicuna Abner ** | 
 
 <br />
 
